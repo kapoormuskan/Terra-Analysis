@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Terra-Analysis
 Analysis using Terra workspace for gene regulatory network analysis deploying GENIE3 algorithm for the ingested porcine scRNA-seq data. 
 =======
@@ -30,4 +30,7 @@ import anndata as ad
 
 Run
 python script.py
->>>>>>> 9e1650f (Initial commit with Terra based nalysis files and interative output)
+
+
+
+(Initial commit with Terra based anlysis files and an interactive output)
